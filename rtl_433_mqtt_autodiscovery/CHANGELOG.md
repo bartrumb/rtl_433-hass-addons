@@ -1,3 +1,6 @@
+## [0.11] - 2022-04-21
+
+- Add HASS support for TPMS kPa
 ## [0.1.9] - 2021-06-13
 
 - Add HASS support for binary sensor opening
