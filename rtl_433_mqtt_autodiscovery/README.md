@@ -24,6 +24,7 @@ noise
 opening
 power_W
 pressure_hPa
+pressure_kPa
 rain_in
 rain_mm
 rain_mm_h
